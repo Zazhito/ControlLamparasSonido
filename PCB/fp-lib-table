@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "CondenserMicrophone")(type "KiCad")(uri "${KIPRJMOD}/lib/CondenserMicrophone")(options "")(descr ""))
+  (lib (name "BORNERA_2")(type "KiCad")(uri "${KIPRJMOD}/lib/BORNERA_2")(options "")(descr ""))
+)
