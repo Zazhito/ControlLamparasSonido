@@ -55,16 +55,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "MF" "On Shore"
+			(property "Description" "TERMINAL BLOCK 3.5MM 2POS PCB"
 				(at 0 0 0)
 				(effects
 					(font
@@ -74,7 +65,7 @@
 					(hide yes)
 				)
 			)
-			(property "DESCRIPTION" "TERMINAL BLOCK 3.5MM 2POS PCB"
+			(property "MF" "On Shore"
 				(at 0 0 0)
 				(effects
 					(font
